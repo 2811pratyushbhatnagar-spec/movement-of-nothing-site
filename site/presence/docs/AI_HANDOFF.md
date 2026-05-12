@@ -34,7 +34,7 @@ If any of these files are missing, stop and report. Do not invent their contents
 - Improve accessibility (alt text, ARIA labels, semantic HTML)
 - Improve mobile rendering (CSS-only fixes)
 - Create draft pages when explicitly requested in QUEUE.md
-- Update `docs/DECISION_LOG.md`, `docs/QUEUE.md`, `docs/SITE_STATE.md`
+- Update `docs/DECISION_LOG.md`, `tasks/QUEUE.md`, `docs/SITE_STATE.md`
 - Verify protected lines are unchanged after any edit
 
 ## Forbidden actions
