@@ -13,7 +13,7 @@ Drift is the failure mode. Bounded action is the discipline.
 Read in this order:
 1. `docs/SITE_STATE.md` — current live state, frozen artifacts, open gates
 2. `docs/PROTECTED_LINES.md` — lines that must not change without explicit versioning
-3. `docs/QUEUE.md` — approved pending tasks
+3. `tasks/QUEUE.md` — approved pending tasks
 4. This file
 
 If any of these files are missing, stop and report. Do not invent their contents.
