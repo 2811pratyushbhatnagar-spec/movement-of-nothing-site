@@ -13,6 +13,6 @@
 
 ## Done
 
-- [ ] Deploy presence-v0.1.1.html at /presence
+- Deploy presence-v0.1.1.html at /presence
       File: site/presence/index.html
       Checklist: docs/DEPLOYMENT_CHECKLIST.md
